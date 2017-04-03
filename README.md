@@ -16,8 +16,8 @@ Repository for example codes to learn IoT programming based on Raspberry Pi
 ### MQTT broker and client
 - MQTT mosquitto broker: http://mosquitto.org/download/
 - MQTT Paho client (publish/subscribe): 
--- https://pypi.python.org/pypi/paho-mqtt/1.1 
--- https://www.eclipse.org/paho/clients/python/
+  - https://pypi.python.org/pypi/paho-mqtt/1.1 
+  - https://www.eclipse.org/paho/clients/python/
 
 ### Development Environment
 - Raspberry Pi 3 Model B and Raspbian: https://www.raspberrypi.org/downloads/
